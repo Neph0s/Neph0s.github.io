@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Xintao Wang</title>
-    <link>http://localhost:1313/publication/</link>
-      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/publication/</link>
+      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu55683914aa04a39eabf91c5616d07179_352758_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu55683914aa04a39eabf91c5616d07179_352758_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>http://localhost:1313/publication/</link>
+      <link>https://example.com/publication/</link>
     </image>
     
     <item>
       <title>CoSER: Coordinating LLM-Based Persona Simulation of Established Roles</title>
-      <link>http://localhost:1313/publication/coser/</link>
+      <link>https://example.com/publication/coser/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/coser/</guid>
+      <guid>https://example.com/publication/coser/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -33,9 +33,9 @@
     
     <item>
       <title>From Persona to Personalization: A Survey on Role-Playing Language Agents</title>
-      <link>http://localhost:1313/publication/personasurvey/</link>
+      <link>https://example.com/publication/personasurvey/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/personasurvey/</guid>
+      <guid>https://example.com/publication/personasurvey/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -52,9 +52,9 @@
     
     <item>
       <title>InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews</title>
-      <link>http://localhost:1313/publication/incharacter/</link>
+      <link>https://example.com/publication/incharacter/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/incharacter/</guid>
+      <guid>https://example.com/publication/incharacter/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -66,9 +66,9 @@
     
     <item>
       <title>Character is Destiny: Can Large Language Models Simulate Persona-Driven Decisions in Role-Playing?</title>
-      <link>http://localhost:1313/publication/characterdestiny/</link>
+      <link>https://example.com/publication/characterdestiny/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/characterdestiny/</guid>
+      <guid>https://example.com/publication/characterdestiny/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -85,9 +85,9 @@
     
     <item>
       <title>Evaluating Character Understanding of Large Language Models via Character Profiling from Fictional Works</title>
-      <link>http://localhost:1313/publication/characterprofile/</link>
+      <link>https://example.com/publication/characterprofile/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/characterprofile/</guid>
+      <guid>https://example.com/publication/characterprofile/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -104,9 +104,9 @@
     
     <item>
       <title>SurveyAgent: A Conversational System for Personalized and Efficient Research Survey</title>
-      <link>http://localhost:1313/publication/surveyagent/</link>
+      <link>https://example.com/publication/surveyagent/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/surveyagent/</guid>
+      <guid>https://example.com/publication/surveyagent/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -123,9 +123,9 @@
     
     <item>
       <title>Knowledgpt: Enhancing large language models with retrieval and storage access on knowledge bases</title>
-      <link>http://localhost:1313/publication/knowledgpt/</link>
+      <link>https://example.com/publication/knowledgpt/</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/knowledgpt/</guid>
+      <guid>https://example.com/publication/knowledgpt/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -142,9 +142,9 @@
     
     <item>
       <title>Maps-kb: A million-scale probabilistic simile knowledge base</title>
-      <link>http://localhost:1313/publication/mapskb/</link>
+      <link>https://example.com/publication/mapskb/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mapskb/</guid>
+      <guid>https://example.com/publication/mapskb/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -161,9 +161,9 @@
     
     <item>
       <title>Light Up the Shadows: Enhance Long-Tail Entity Grounding with Concept-Guided Vision-Language Models</title>
-      <link>http://localhost:1313/publication/triangle/</link>
+      <link>https://example.com/publication/triangle/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/triangle/</guid>
+      <guid>https://example.com/publication/triangle/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -180,9 +180,9 @@
     
     <item>
       <title>Prototypical concept representation</title>
-      <link>http://localhost:1313/publication/journal-article/</link>
+      <link>https://example.com/publication/journal-article/</link>
       <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/</guid>
+      <guid>https://example.com/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -199,9 +199,9 @@
     
     <item>
       <title>Language Models as Knowledge Embeddings</title>
-      <link>http://localhost:1313/publication/lmke/</link>
+      <link>https://example.com/publication/lmke/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lmke/</guid>
+      <guid>https://example.com/publication/lmke/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
